@@ -7,7 +7,7 @@
 ## 🎥 Video Demo
 See **WebHack** in action and learn how to use its modules:
 
-[![WebHack Demo Video](https://youtu.be/AOgYCQnu2AM?si=d0g0GZr1_Pj4A8UJ)
+[[WebHack Video](https://youtu.be/AOgYCQnu2AM?si=d0g0GZr1_Pj4A8UJ)
 
 > *Click the thumbnail above to watch the full tutorial on YouTube.*
 
