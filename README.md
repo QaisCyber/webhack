@@ -1,4 +1,4 @@
-# 🛡️ WebHack Toolkit v2.0
+# 🛡️ WebHack v1.0
 
 **WebHack** is an advanced, automated web penetration testing framework designed to streamline the reconnaissance and vulnerability assessment phases. It integrates industry-standard tools into a unified, interactive interface for ethical hackers and security researchers.
 
@@ -30,8 +30,8 @@ WebHack automates the execution of several security modules:
 
 ## 📸 Screenshots
 
-| Main Menu | Vulnerability Scan |
-| :---: | :---: |
+| Main Menu 
+| :---: 
 | ![Main Menu](main_menu.png) 
 
 ---
@@ -44,14 +44,15 @@ WebHack is designed for **Kali Linux**, **Parrot OS**, or any Debian-based distr
 ```bash
 git clone https://github.com/qaiscyber/webhack.git
 cd webhack
+```
 
 ###2. Run the setup
 The setup module will automatically handle all dependencies (Apt, Pip, Go, and Git tools).
 
-Bash
+```bash
 sudo python3 webhack.py --setup
-
-###⚙️ Configuration
+```
+⚙️ Configuration
 You can customize the tool's behavior by editing config.json or through the Settings menu:
 
 Wordlists: Change default paths for fuzzing.
@@ -60,17 +61,17 @@ Performance: Adjust threads and timeout settings.
 
 Anonymity: Set up HTTP/SOCKS proxies.
 
-###📂 Project Structure
+📂 Project Structure
 tools/: External security tools binaries and repos.
 
 results/: Organized scan outputs and reports (Auto-saved).
 
 logs/: Detailed session logs for debugging.
 
-###⚠️ Disclaimer
+⚠️ Disclaimer
 NOTE: This tool is for Legal and Ethical Purposes Only. The author is not responsible for any misuse or damage caused by this tool. Only use it on targets you have explicit, written permission to test.
 
-###🤝 Contributing
+🤝 Contributing
 Contributions, issues, and feature requests are welcome! Feel free to check the issues page.
 
 Made with ❤️ by Qais
